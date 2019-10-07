@@ -1,1 +1,1 @@
-# SpringBoot H2 exmaple
+# SpringBoot H2 db exmaple
